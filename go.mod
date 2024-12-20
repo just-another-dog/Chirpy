@@ -1,4 +1,4 @@
-module github.com/bootdotdev/learn-http-servers
+module github.com/just-another-dog/Chirpy
 
 go 1.23.0
 
